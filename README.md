@@ -94,3 +94,59 @@ This challenge is completely free. Please share it with anyone who will find it 
 # HTML_CSS_Accessibility_LAB
 Lab 2.1 Interactive Accessibility Lesson
 >>>>>>> origin/main
+
+# Responsive Testimonials Grid
+
+A responsive testimonials page built with HTML and CSS as a
+Frontend Mentor challenge.
+
+## Features
+
+- Four-column grid layout on desktop.
+- Single-column layout on mobile.
+- Five graduate testimonial cards.
+- Responsive profile images and card spacing.
+- Semantic HTML and visible keyboard focus styles.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- CSS Grid
+- Media queries
+
+## What I Learned
+
+I learned how to use CSS Grid to arrange cards across multiple
+columns and rows. I used a media query to change the desktop
+layout into a single column on smaller screens.
+
+I also practiced using semantic HTML, organizing content into
+paragraphs and blockquotes, and creating reusable CSS classes.
+
+## Accessibility
+
+- Included the page language using `lang="en"`.
+- Used semantic elements such as main, section, header, and footer.
+- Connected each testimonial section to its heading with
+  `aria-labelledby`.
+- Used empty alt attributes for portraits because the person's
+  name appears beside each image.
+- Added visible focus outlines for keyboard users.
+- Kept the HTML reading order consistent with the mobile layout.
+
+## How to Run
+
+1. Download or clone this repository.
+2. Keep the images in the images folder.
+3. Open index.html in a web browser.
+4. Resize the browser to view the mobile and desktop layouts.
+
+## Author
+
+Prasanthi Kola
+
+## Acknowledgments
+
+Design challenge provided by Frontend Mentor:
+https://www.frontendmentor.io
