@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Testimonials grid section
 
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
@@ -89,3 +90,7 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# HTML_CSS_Accessibility_LAB
+Lab 2.1 Interactive Accessibility Lesson
+>>>>>>> origin/main
